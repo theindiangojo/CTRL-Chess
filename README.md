@@ -1,1 +1,1 @@
-# CTRL-Chess-
+# CTRL-Chess
